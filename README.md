@@ -20,7 +20,7 @@ This Workspace should contain the following tasks:
 
 ## Annotation and training process
 
-General [annotation](https://docs.onepanel.ai/docs/getting-started/use-cases/computervision/annotation/cvat/cvat_quick_guide), [training](https://docs.onepanel.ai/docs/getting-started/use-cases/computervision/annotation/cvat/cvat_annotation_model) and [automatic annotation](https://docs.onepanel.ai/docs/getting-started/use-cases/computervision/annotation/cvat/cvat_automatic_annotation) processes are outlined in Onepanel’s documentation.
+General [annotation](https://docs.onepanel.ai/docs/reference/cvat/quickstart), [training](https://docs.onepanel.ai/docs/reference/cvat/built-in-models) and [automatic annotation](https://docs.onepanel.ai/docs/reference/cvat/automatic-annotation) processes are outlined in Onepanel’s documentation.
 
 Both models for potholes and guardrails damage detection are trained using MaskRCNN Training Workflow in Onepanel using the hyperparameters described above.
 
